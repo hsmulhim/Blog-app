@@ -1,4 +1,4 @@
-# home_work2-hessah almulhim
+#Blog Application
 
 this is a blog application devoloped using dummy json data and preformed CRUD operation 
 
